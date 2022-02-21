@@ -268,7 +268,7 @@ height: 30px;
     color: #fff;
 }
 .banner-1 {
-    background: url("Images/residental.jpeg");
+    background: url("/Images/residental.jpeg");
     background-repeat: repeat;
     background-size: auto;
     padding: 78px 60px;
@@ -282,7 +282,7 @@ height: 30px;
     
 }
 .banner-2 {
-    background: url("Images/commical.png");
+    background: url("/Images/commical.png");
     background-repeat: repeat;
     background-size: auto;
     padding: 78px 60px;
@@ -296,7 +296,7 @@ height: 30px;
     
 }
 .banner-3{
-    background: url("Images/renders.png");
+    background: url("/Images/renders.png");
     background-repeat: repeat;
     background-size: auto;
     padding: 78px 60px;
@@ -310,7 +310,7 @@ height: 30px;
     
 }
 .banner-4 {
-    background: url("Images/bim1.png");
+    background: url("/Images/bim1.png");
     background-repeat: repeat;
     background-size: auto;
     padding: 78px 60px;
