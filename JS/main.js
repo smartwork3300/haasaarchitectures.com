@@ -29,9 +29,9 @@ var loder=document.getElementById("perloader");
      setTimeout(()=>{loder.style.display='none';},1000);
         
     }
-$(document).ready(function(){
-    $('#exampleModal').modal('show');
-})
+// $(document).ready(function(){
+//     $('#exampleModal').modal('show');
+// })
 
 function videoUrl(mpic) {
     document.getElementById("slide").src = mpic;
