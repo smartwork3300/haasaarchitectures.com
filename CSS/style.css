@@ -648,7 +648,7 @@ border-top-right-radius: calc(.25rem - 1px);
     height: 220px;
   }
   #perloader{
-    background: #fff url(/Images/satrt.gif) no-repeat center center;
+    background: #fff url(Images/satrt.gif) no-repeat center center;
     /* background: linear-gradient(0deg, rgba(239,240,37,1) 0%, rgba(255,196,0,1) 100%); */
     background-size: 200px;
     width: 100%;
