@@ -26,7 +26,7 @@ var loder=document.getElementById("perloader");
     
 
     function myFunction(){
-     setTimeout(()=>{loder.style.display='none';},3000);
+     setTimeout(()=>{loder.style.display='none';},1000);
         
     }
 $(document).ready(function(){
